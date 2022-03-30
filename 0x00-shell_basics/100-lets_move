@@ -1,2 +1,2 @@
 #!/bin/bash
-nmv [[:upper:]]* /temp/u'
+nmv [[:upper:]]* /temp/u
