@@ -1,9 +1,5 @@
-#!/usr/bin/en bash
-# Displays all information about the file "school".
-#  tell's
-#    if the file exists
-#    if the file is empty or not 
-
+#!/usr/bin/env bash
+# Displays information about the `school` file. 
 
 if [ -e "school" ]
 then
